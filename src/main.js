@@ -1422,9 +1422,9 @@ let currentIntersects = [];
 let currentHoveredObject = null;
 
 const socialLinks = {
-  GitHub: "https://github.com/andrewwoan/sooahkimsfolio",
-  YouTube: "https://youtu.be/AB6sulUMRGE",
-  Twitter: "https://www.twitter.com/",
+  GitHub: "https://github.com/violetlaire",
+  YouTube: "",
+  Twitter: "",
 };
 
 const raycaster = new THREE.Raycaster();
