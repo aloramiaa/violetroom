@@ -6,3 +6,26 @@ $breakpoints: (
   "tablet": 768px,
   "desktop": 1024px,
 );
+
+.contact-svg {
+  width: 40px;
+  height: 40px;
+  color: #6a4c93; /* or your main icon color */
+  transition: color 0.3s ease;
+}
+
+.contact-svg:hover {
+  color: #44318D; /* hover color if you want */
+}
+
+.contact-svg.discord {
+  width: 40px;
+  height: 40px;
+  color: #6a4c93; /* or your main icon color */
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.contact-svg.discord:hover {
+  color: #44318D; /* hover color if you want */
+  transform: scale(1.1); /* Add animation similar to GitHub icon */
+}
