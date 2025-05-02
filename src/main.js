@@ -1422,7 +1422,7 @@ let currentIntersects = [];
 let currentHoveredObject = null;
 
 const socialLinks = {
-  GitHub: "https://github.com/violetlaire",
+  GitHub: "https://github.com/Aloramiaa",
   YouTube: "",
   Twitter: "",
 };
